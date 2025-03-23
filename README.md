@@ -1,5 +1,3 @@
----
-
 # ECS Service Details Script
 
 This script retrieves and displays details of all services running under an AWS ECS cluster, including:
